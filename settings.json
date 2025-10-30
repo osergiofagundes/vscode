@@ -1,10 +1,13 @@
 {
-    "workbench.colorTheme": "Dracula Cleaner",
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 13,
+    "editor.fontSize": 14,
     "editor.lineHeight": 1.7,
+    "workbench.editor.defaultIndent": 15,
+    "editor.wordWrapColumn": 80,
+    "editor.letterSpacing": 0.5,
+    "editor.tabSize": 4,
     "editor.rulers": [80, 120],
     "editor.renderLineHighlight": "gutter",
     "workbench.editor.labelFormat": "short",
@@ -23,5 +26,12 @@
     "window.commandCenter": false,
     "liveServer.settings.donotShowInfoMsg": true,
     "workbench.startupEditor": "none",
-    "python.defaultInterpreterPath": "C:\\Users\\conta\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+    "python.defaultInterpreterPath": "C:\\Users\\conta\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "codeium.enableCodeLens": false,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.colorTheme": "Min Dark",
+    "dart.flutterSdkPath": "C:\\Users\\Sérgio Fagundes\\flutter"
 }
